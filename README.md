@@ -1,6 +1,9 @@
 # Seeing Faces in Things: A Model and Dataset for Pareidolia
 
-[![Website](https://img.shields.io/badge/FacesInThings-%F0%9F%8C%90Website-purple?style=flat)](https://aka.ms/facesinthings) [![arXiv](https://img.shields.io/badge/arXiv-2403.10516-b31b1b.svg)](https://arxiv.org/abs/2403.10516) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhamilton723/FacesInThings/blob/main/Demo%20Usage.ipynb)
+[![Website](https://img.shields.io/badge/FacesInThings-%F0%9F%8C%90Website-purple?style=flat)](https://aka.ms/facesinthings)
+
+[//]: # ([![arXiv]&#40;https://img.shields.io/badge/arXiv-2403.10516-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/2403.10516&#41; )
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhamilton723/FacesInThings/blob/main/Demo%20Usage.ipynb)
 
 [//]: # ([![Huggingface]&#40;https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FeatUp-orange&#41;]&#40;https://huggingface.co/spaces/mhamilton723/FeatUp&#41; )
 [//]: # ([![Huggingface]&#40;https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper%20Page-orange&#41;]&#40;https://huggingface.co/papers/2403.10516&#41;)
@@ -88,11 +91,6 @@ The `metadata.csv` file contains the following fields:
 
 ## Citation
 ```
-@inproceedings{hamilton2024seeing,
-  title={Seeing Faces in Things: A Model and Dataset for Pareidolia},
-  author={Hamilton, Mark and Stent, Simon and others},
-  booktitle={ECCV},
-  year={2024}
-}
+TODO
 ```
 
