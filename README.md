@@ -31,26 +31,22 @@ We show the average face computed from the FacesInThings, WIDER FACE, and Animal
 
 ![Average Faces](./static/all_image_panel_half.jpg)
 
-
-
-
 ## Installation
 
-Clone the repository:
+### Pypi
 
 ```bash
 pip install facesinthings
 ```
 
+### Local Clone
+
 ```bash
 git clone https://github.com/mhamilton723/FacesInThings.git
+cd FacesInThings
+pip install -e .
 ```
 
-Install the required Python dependencies:
-
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 The dataset is downloaded automatically if not available locally.

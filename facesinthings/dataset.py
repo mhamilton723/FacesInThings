@@ -2,7 +2,6 @@ import os
 import zipfile
 import pandas as pd
 import requests
-import torchvision.transforms as transforms
 from PIL import Image
 from torch.utils.data import Dataset, DataLoader
 import json
@@ -57,6 +56,8 @@ class FacesInThings(Dataset):
 
 
 if __name__ == '__main__':
+    import torchvision.transforms as transforms
+
     # Example usage
     transform = transforms.Compose([
         transforms.Resize((224, 224)),
